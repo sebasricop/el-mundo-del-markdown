@@ -26,3 +26,4 @@
  |*ggpull*      |*equivalente a git pull origin $(current_branch) 👌*|
  |*gcam*        |*equivalente a git commit -a -m 🧑‍🎓*|
 
+## DEV Jr.
